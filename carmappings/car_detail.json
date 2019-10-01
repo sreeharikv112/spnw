@@ -1,0 +1,23 @@
+{
+    "carId": 12,
+    "title": null,
+    "isClean": true,
+    "isDamaged": false,
+    "licencePlate": "BBB-222",
+    "fuelLevel": 27,
+    "vehicleStateId": 0,
+    "hardwareId": "234234234",
+    "vehicleTypeId": 1,
+    "pricingTime": "0,22/km",
+    "pricingParking": "0,05/min",
+    "isActivatedByHardware": false,
+    "locationId": 2,
+    "address": "Kampstraße 7",
+    "zipCode": "44137",
+    "city": "Dortmund",
+    "lat": 51.515,
+    "lon": 7.4651,
+    "reservationState": 0,
+    "damageDescription": "",
+    "vehicleTypeImageUrl": "https://wunderfleet-recruiting-dev.s3.eu-central-1.amazonaws.com/images/vehicle_type_image.png"
+}
